@@ -1,4 +1,4 @@
-__mod_name__ = "◎Voice Player"
+__mod_name__ = "◎Voice"
 
 __help__ = """
 *START UP*
